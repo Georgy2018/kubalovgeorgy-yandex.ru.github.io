@@ -1,0 +1,47 @@
+#main_table{
+   width: 1000px;
+   height: 1000px;
+}
+#header{
+	height: 200px;
+	width: 100px;
+}
+
+#menu{
+	width: 200px;
+	vertical-align: top;
+}
+#menu ul{
+    padding-right: 50px;	
+}
+#menu li{
+	list-style-type: none;
+	display: blick;
+    background-color: black;
+	color: #fff;
+	text-align: center; 
+	margin-bottom: 5px;
+	height: 20px;
+}
+
+#menu li a{
+    font-size: 15px;
+    color: #fff;
+    text-decoration: none;	
+}
+#menu li:hover{
+    background-color: gold;	
+}
+
+#content{
+   vertical-align: top;	
+}
+
+#footer{
+	height: 60px;
+	width: 1000px;
+    text-align: center;
+	background-color: gray;
+	color: black;
+	font-size: 16px;
+}
